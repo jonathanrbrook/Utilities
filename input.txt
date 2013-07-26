@@ -1,0 +1,72 @@
+| MasterMap - Non-Trial Evaluation                            | mmcolor  | 700        | EVALUA01 | 7225759     | 46448622 | 2     |
+| Most Recent 1:10k CRM - Non-Trial Evaluation                | 113881   | 301        | EVALUA01 | 7225759     | 46448622 | 2     |
+| Second Most Recent 1:10k CRM - Non-Trial Evaluation         | 101504   | 320        | EVALUA01 | 7225759     | 46448622 | 2     |
+| Oldest 1:10k CRM - Non-Trial Evaluation                     | 101382   | 310        | EVALUA01 | 7225759     | 46448622 | 2     |
+| MasterMap - Non-Trial Customer                              | mmcolor  | 700        | ITEST01  | 7225758     | 46448624 | 1     |
+| Most Recent 1:10k CRM - Non-Trial Customer                  | 113881   | 301        | ITEST01  | 7225758     | 46448624 | 1     |
+| Second Most Recent 1:10k CRM - Non-Trial Customer           | 101504   | 320        | ITEST01  | 7225758     | 46448624 | 1     |
+| Oldest 1:10k CRM - Non-Trial  Customer                      | 101382   | 310        | ITEST01  | 7225758     | 46448624 | 1     |
+| MasterMap - Non-Trial Testing                               | mmcolor  | 700        | MALLAN02 | 7225796     | 46448604 | 5     |
+| Most Recent 1:10k CRM - Non-Trial Testing                   | 113881   | 301        | MALLAN02 | 7225796     | 46448604 | 5     |
+| Second Most Recent 1:10k CRM - Non-Trial Testing            | 101504   | 320        | MALLAN02 | 7225796     | 46448604 | 5     |
+| Oldest 1:10k CRM - Non-Trial Testing                        | 101382   | 310        | MALLAN02 | 7225796     | 46448604 | 5     |
+| MasterMap - Non-Trial Internal                              | mmcolor  | 700        | IUSER01  | 7225757     | 46448626 | 4     |
+| Most Recent 1:10k CRM - Non-Trial Internal                  | 113881   | 301        | IUSER01  | 7225757     | 46448626 | 4     |
+| Second Most Recent 1:10k CRM - Non-Trial Internal           | 101504   | 320        | IUSER01  | 7225757     | 46448626 | 4     |
+| Oldest 1:10k CRM - Non-Trial Internal                       | 101382   | 310        | IUSER01  | 7225757     | 46448626 | 4     |
+| MasterMap - Non-Trial Third Party                           | mmcolor  | 700        | TPARTY01 | 7225756     | 46448628 | 1     |
+| Most Recent 1:10k CRM - Non-Trial Third Party               | 113881   | 301        | TPARTY01 | 7225756     | 46448628 | 1     |
+| Second Most Recent 1:10k CRM - Non-Trial Third Party        | 101504   | 320        | TPARTY01 | 7225756     | 46448628 | 1     |
+| Oldest 1:10k CRM - Non-Trial Third Party                    | 101382   | 310        | TPARTY01 | 7225756     | 46448628 | 1     |
+| MasterMap - Non-Trial Pan Government                        | mmcolor  | 700        | ECAQESAD | 7225736     | 46448630 | 1     |
+| Most Recent 1:10k CRM - Non-Trial Pan Government            | 113881   | 301        | ECAQESAD | 7225736     | 46448630 | 1     |
+| Second Most Recent 1:10k CRM - Non-Trial Pan Government     | 101504   | 320        | ECAQESAD | 7225736     | 46448630 | 1     |
+| Oldest 1:10k CRM - Non-Trial Pan Government                 | 101382   | 310        | ECAQESAD | 7225736     | 46448630 | 1     |
+| MasterMap - AutoRun-Trial Evaluation                        | mmcolor  | 700        | KJONES09 | 7225760     | 46448632 | 4     |
+| Most Recent 1:10k CRM - AutoRun-Trial Evaluation            | 113881   | 301        | KJONES09 | 7225760     | 46448632 | 4     |
+| Second Most Recent 1:10k CRM - AutoRun-Trial Evaluation     | 101504   | 320        | KJONES09 | 7225760     | 46448632 | 4     |
+| Oldest 1:10k CRM - AutoRun-Trial Evaluation                 | 101382   | 310        | KJONES09 | 7225760     | 46448632 | 4     |
+| MasterMap - AutoRun-Trial Customer                          | mmcolor  | 700        | FSMITH02 | 7225761     | 46448634 | 5     |
+| Most Recent 1:10k CRM - AutoRun-Trial Customer              | 113881   | 301        | FSMITH02 | 7225761     | 46448634 | 5     |
+| Second Most Recent 1:10k CRM - AutoRun-Trial Customer       | 101504   | 320        | FSMITH02 | 7225761     | 46448634 | 5     |
+| Oldest 1:10k CRM - AutoRun-Trial Customer                   | 101382   | 310        | FSMITH02 | 7225761     | 46448634 | 5     |
+| MasterMap - AutoRun-Trial Testing                           | mmcolor  | 700        | DMCALL01 | 7225776     | 46448602 | 5     |
+| Most Recent 1:10k CRM - AutoRun-Trial Testing               | 113881   | 301        | DMCALL01 | 7225776     | 46448602 | 5     |
+| Second Most Recent 1:10k CRM - AutoRun-Trial Testing        | 101504   | 320        | DMCALL01 | 7225776     | 46448602 | 5     |
+| Oldest 1:10k CRM - AutoRun-Trial Testing                    | 101382   | 310        | DMCALL01 | 7225776     | 46448602 | 5     |
+| MasterMap - AutoRun-Trial Internal                          | mmcolor  | 700        | EWILLI09 | 7225762     | 46448637 | 5     |
+| Most Recent 1:10k CRM - AutoRun-Trial Internal              | 113881   | 301        | EWILLI09 | 7225762     | 46448637 | 5     |
+| Second Most Recent 1:10k CRM - AutoRun-Trial Internal       | 101504   | 320        | EWILLI09 | 7225762     | 46448637 | 5     |
+| Oldest 1:10k CRM - AutoRun-Trial Internal                   | 101382   | 310        | EWILLI09 | 7225762     | 46448637 | 5     |
+| MasterMap - AutoRun-Trial Third Party                       | mmcolor  | 700        | IWOBBL01 | 7225763     | 46448639 | 4     |
+| Most Recent 1:10k CRM - AutoRun-Trial Third Party           | 113881   | 301        | IWOBBL01 | 7225763     | 46448639 | 4     |
+| Second Most Recent 1:10k CRM - AutoRun-Trial Third Party    | 101504   | 320        | IWOBBL01 | 7225763     | 46448639 | 4     |
+| Oldest 1:10k CRM - AutoRun-Trial Third Party                | 101382   | 310        | IWOBBL01 | 7225763     | 46448639 | 4     |
+| MasterMap - AutoRun-Trial Pan Government                    | mmcolor  | 700        | JHELMA01 | 7225764     | 46448641 | 4     |
+| Most Recent 1:10k CRM - AutoRun-Trial Pan Government        | 113881   | 301        | JHELMA01 | 7225764     | 46448641 | 4     |
+| Second Most Recent 1:10k CRM - AutoRun-Trial Pan Government | 101504   | 320        | JHELMA01 | 7225764     | 46448641 | 4     |
+| Oldest 1:10k CRM - AutoRun-Trial Pan Government             | 101382   | 310        | JHELMA01 | 7225764     | 46448641 | 4     |
+| MasterMap - NonRun-Trial Evaluation                         | mmcolor  | 700        | NCADBU01 | 7225765     | 46448647 | 4     |
+| Most Recent 1:10k CRM - NonRun-Trial Evaluation             | 113881   | 301        | NCADBU01 | 7225765     | 46448647 | 4     |
+| Second Most Recent 1:10k CRM - NonRun-Trial Evaluation      | 101504   | 320        | NCADBU01 | 7225765     | 46448647 | 4     |
+| Oldest 1:10k CRM - NonRun-Trial Evaluation                  | 101382   | 310        | NCADBU01 | 7225765     | 46448647 | 4     |
+| MasterMap - NonRun-Trial Customer                           | mmcolor  | 700        | FARMST01 | 7225766     | 46448649 | 4     |
+| Most Recent 1:10k CRM - NonRun-Trial Customer               | 113881   | 301        | FARMST01 | 7225766     | 46448649 | 4     |
+| Second Most Recent 1:10k CRM - NonRun-Trial Customer        | 101504   | 320        | FARMST01 | 7225766     | 46448649 | 4     |
+| Oldest 1:10k CRM - NonRun-Trial Customer                    | 101382   | 310        | FARMST01 | 7225766     | 46448649 | 4     |
+| MasterMap - NonRun-Trial Testing                            | mmcolor  | 700        | WGIBLE01 | 6650828     | 46128103 | 4     |
+| Most Recent 1:10k CRM - NonRun-Trial Testing                | 113881   | 301        | WGIBLE01 | 6650828     | 46128103 | 4     |
+| Second Most Recent 1:10k CRM - NonRun-Trial Testing         | 101504   | 320        | WGIBLE01 | 6650828     | 46128103 | 4     |
+| Oldest 1:10k CRM - NonRun-Trial Testing                     | 101382   | 310        | WGIBLE01 | 6650828     | 46128103 | 4     |
+| MasterMap - NonRun-Trial Internal                           | mmcolor  | 700        | JHAMMO03 | 7225769     | 46448651 | 4     |
+| Most Recent 1:10k CRM - NonRun-Trial Internal               | 113881   | 301        | JHAMMO03 | 7225769     | 46448651 | 4     |
+| Second Most Recent 1:10k CRM - NonRun-Trial Internal        | 101504   | 320        | JHAMMO03 | 7225769     | 46448651 | 4     |
+| Oldest 1:10k CRM - NonRun-Trial Internal                    | 101382   | 310        | JHAMMO03 | 7225769     | 46448651 | 4     |
+| MasterMap - NonRun-Trial Third Party                        | mmcolor  | 700        | JFLETC04 | 7225767     | 46448653 | 4     |
+| Most Recent 1:10k CRM - NonRun-Trial Third Party            | 113881   | 301        | JFLETC04 | 7225767     | 46448653 | 4     |
+| Second Most Recent 1:10k CRM - NonRun-Trial Third Party     | 101504   | 320        | JFLETC04 | 7225767     | 46448653 | 4     |
+| Oldest 1:10k CRM - NonRun-Trial Third Party                 | 101382   | 310        | JFLETC04 | 7225767     | 46448653 | 4     |
+| MasterMap - NonRun-Trial Pan Government                     | mmcolor  | 700        | ICOPES01 | 7225768     | 46448655 | 4     |
+| Most Recent 1:10k CRM - NonRun-Trial Pan Government         | 113881   | 301        | ICOPES01 | 7225768     | 46448655 | 4     |
+| Second Most Recent 1:10k CRM - NonRun-Trial Pan Government  | 101504   | 320        | ICOPES01 | 7225768     | 46448655 | 4     |
+| Oldest 1:10k CRM - NonRun-Trial Pan Government              | 101382   | 310        | ICOPES01 | 7225768     | 46448655 | 4     |
